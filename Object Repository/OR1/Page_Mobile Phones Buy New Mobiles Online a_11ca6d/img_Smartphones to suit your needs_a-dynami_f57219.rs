@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Smartphones to suit your needs_a-dynami_f57219</name>
+   <tag></tag>
+   <elementGuidId>bf6fb5aa-15fb-4b26-99b1-892d1d774a25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.a-dynamic-image.sl-sobe-carousel-sub-card-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sobe_d_b_7_1']/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Shop now</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/31/img20/Wireless/Cnnjpp/OnePlus_9Series/1/D20968569_WLD_ItelVision1Pro_SBCs_hex._SY530_QL85_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dynamic-image sl-sobe-carousel-sub-card-img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-dynamic-image</name>
+      <type>Main</type>
+      <value>{&quot;https://images-na.ssl-images-amazon.com/images/G/31/img20/Wireless/Cnnjpp/OnePlus_9Series/1/D20968569_WLD_ItelVision1Pro_SBCs_hex._SY530_QL85_.jpg&quot;:[530,434]}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sobe_d_b_7_1&quot;)/a[@class=&quot;sl-sobe-carousel-sub-card-image&quot;]/img[@class=&quot;a-dynamic-image sl-sobe-carousel-sub-card-img&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sobe_d_b_7_1']/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Shop now']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>
